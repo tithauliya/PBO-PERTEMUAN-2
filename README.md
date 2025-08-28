@@ -1,4 +1,4 @@
-Pemrograman Berorientasi Objek (**OOP**) adalah paradigma pemrograman yang memodelkan dunia nyata ke dalam program menggunakan **objek** dan **kelas**. OOP memudahkan pengembangan program yang **terstruktur, modular, dan fleksibel**.  
+Pemrograman Berorientasi Objek adalah paradigma pemrograman yang memodelkan dunia nyata ke dalam program menggunakan **objek** dan **kelas**. OOP memudahkan pengembangan program yang **terstruktur, modular, dan fleksibel**.  
 
 Beberapa konsep penting yang dipelajari pada praktikum ini antara lain:
 - **Inheritance**: Memungkinkan kelas anak mewarisi atribut dan method dari kelas induk, sehingga kode dapat digunakan kembali tanpa menulis ulang.
